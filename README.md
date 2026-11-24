@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏃 ROB RUN — External /
+# 🏃 ROB RUN — External 
 
 **Undetected · External · ESP + Aimbot + Speed**
 
